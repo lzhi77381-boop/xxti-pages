@@ -561,7 +561,7 @@ function HomePage({ onStart }) {
               className="text-[10px] tracking-[0.35em] uppercase"
               style={{ color: theme.inkMuted, fontFamily: "'Cormorant Garamond', serif" }}
             >
-              xxti · est. 2025
+              xxti · 2026
             </div>
           </div>
         </div>
@@ -631,7 +631,7 @@ function HomePage({ onStart }) {
               className="text-[10px] tracking-[0.3em]"
               style={{ color: theme.inkMuted, fontFamily: "'Cormorant Garamond', serif" }}
             >
-              XX · XVI · 20Q
+              XX · our · power
             </div>
             <div className="flex-1 h-px" style={{ background: theme.line }} />
           </div>
